@@ -1,0 +1,26 @@
+.header {
+  background-color: #d90429;;
+  color: white;
+  padding: 30px;
+  text-align: center;
+  position: relative;
+  border-bottom: solid white 5px;
+  box-shadow: 1px 1px 5px black;
+  margin: auto;
+  max-width: 100vw;
+}
+
+.header h1 {
+  margin: 0;
+  font-size: 2rem;
+  font-family: 'Bree Serif', serif;
+  font-weight: 300;
+}
+
+
+@font-face {
+    font-family: 'Bree Serif';
+    src: url('../fonts/BreeSerif-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
